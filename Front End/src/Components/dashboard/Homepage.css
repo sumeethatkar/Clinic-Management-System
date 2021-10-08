@@ -1,0 +1,45 @@
+.doc {
+    background: url("https://previews.123rf.com/images/leventegyori/leventegyori1506/leventegyori150600144/41664052-doctor-with-medical-background.jpg") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+  }
+  .pat {
+    background: url("https://cdn3.vectorstock.com/i/1000x1000/39/77/smiling-and-happy-patients-with-their-doctor-vector-18193977.jpg") no-repeat center;
+    background-size: cover;
+    width: 85%;
+    height: 100vh;
+  }
+  .admin {
+    background: url("https://keepersecurity.com/console/resources/css/img/undraw_programming_2svr@2x.png") no-repeat center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+  }
+  .relative{
+  
+    position: relative;
+    left: 280px;
+    top:65px;
+    
+  }
+  .relative1{
+  
+    position: relative;
+    left: 900px;
+    top:35px;
+    
+  }
+  
+  header {
+      position: relative;
+      text-align: center;
+      padding-top: 25px;
+    }
+    header img {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
